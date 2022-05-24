@@ -14,3 +14,6 @@
 
 - Data analyst [certificate](https://drive.google.com/file/d/1f-2AvQLusHDI8rS5_0mWd-Z3wWSUJ5JU/view?usp=sharing)
 
+- SQL and data retrieval [certificate](https://drive.google.com/file/d/1m5GF42EcwyD3zNw7kRmVBVjrTKV_mPls/view?usp=sharing)
+
+- Basic analytics  [certificate](https://drive.google.com/file/d/17pTGhMjfdt22MWYjC6NERtOJCXL2n5dy/view?usp=sharing)
