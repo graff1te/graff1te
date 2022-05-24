@@ -17,3 +17,6 @@
 - SQL and data retrieval [certificate](https://drive.google.com/file/d/1m5GF42EcwyD3zNw7kRmVBVjrTKV_mPls/view?usp=sharing)
 
 - Basic analytics  [certificate](https://drive.google.com/file/d/17pTGhMjfdt22MWYjC6NERtOJCXL2n5dy/view?usp=sharing)
+
+- Big data  [certificate](https://drive.google.com/file/d/15I5ma_Vzsr5ZWCQ6MOc6bkIElQY2y2Gv/view?usp=sharing)
+
