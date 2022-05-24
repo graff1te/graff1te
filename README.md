@@ -10,7 +10,7 @@
     
 - SQL.       [Итоговая работа по курсу 'SQL и получение данных'](https://github.com/graff1te/SQL-total-airports)  
 
-- Excell.       [Итоговая работа по курсу 'Метрики, гипотезы, точки роста'](https://github.com/graff1te/Metrics-online-store.git)  
+- Excel.       [Итоговая работа по курсу 'Метрики, гипотезы, точки роста'](https://github.com/graff1te/Metrics-online-store.git)  
     
 ### Сертификаты Нетологии:  
 
