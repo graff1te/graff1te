@@ -16,7 +16,9 @@
 
 - SQL and data retrieval [certificate](https://drive.google.com/file/d/1m5GF42EcwyD3zNw7kRmVBVjrTKV_mPls/view?usp=sharing)
 
-- Analytics basic  [certificate](https://drive.google.com/file/d/17pTGhMjfdt22MWYjC6NERtOJCXL2n5dy/view?usp=sharing)
+- Analytics  [certificate](https://drive.google.com/file/d/17pTGhMjfdt22MWYjC6NERtOJCXL2n5dy/view?usp=sharing)
 
-- Big data basic  [certificate](https://drive.google.com/file/d/15I5ma_Vzsr5ZWCQ6MOc6bkIElQY2y2Gv/view?usp=sharing)
+- Big data  [certificate](https://drive.google.com/file/d/15I5ma_Vzsr5ZWCQ6MOc6bkIElQY2y2Gv/view?usp=sharing)
+
+- Metrics  [certificate](https://drive.google.com/file/d/1WOf9KgMKeSLgL3I8opPXR_qLSdNp6xpj/view?usp=sharing)
 
