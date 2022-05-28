@@ -6,9 +6,9 @@
 
 ### Мои учебные проекты:
 
-- Python |    [Репозиторий с дипломной работой](https://github.com/graff1te/Python-fitness-project) 
+- Python  |    [Репозиторий с дипломной работой](https://github.com/graff1te/Python-fitness-project) 
     
-- SQL |      [Итоговая работа по курсу 'SQL и получение данных'](https://github.com/graff1te/SQL-total-airports)  
+- SQL  |      [Итоговая работа по курсу 'SQL и получение данных'](https://github.com/graff1te/SQL-total-airports)  
 
 - Excel, Data Studio  |     [Итоговая работа по курсу 'Метрики, гипотезы, точки роста'](https://github.com/graff1te/Metrics-online-store.git)  
     
