@@ -24,4 +24,6 @@
 
 - Metrics  [certificate](https://drive.google.com/file/d/1WOf9KgMKeSLgL3I8opPXR_qLSdNp6xpj/view?usp=sharing)
 
-- MTS virttual internship  [certificate](https://drive.google.com/file/d/1_gWuv3zxp_cmp824gCnOIG2g2uX5KIrf/view?usp=sharing)
+### Виртуальная стажировка МТС:  
+
+- Data analyst [certificate](https://drive.google.com/file/d/1_gWuv3zxp_cmp824gCnOIG2g2uX5KIrf/view?usp=sharing)
